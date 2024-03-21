@@ -19,11 +19,11 @@ The report is equipped with various filters that you can separate by:
 
 ![filter](https://github.com/itzryanstowers/Roll-Rate-Report/assets/113382980/a0be1902-eba1-48e9-965a-bc2a30b6f590)
 
-### Loss Provisioning Report
+# Loss Provisioning Report
 
-Along with the Roll Rate Report Dashboard, there is a second tab that goes more in depth about forecasting the loss rate.
- - Here you can find information and prediction on the loss rate of accounts along with:
- - Aged lLoss Percentage
+### Along with the Roll Rate Report Dashboard, there is a second tab that goes more in depth about forecasting the loss rate. Here you can find information and predictions on the loss rate of accounts by fiscal month:
+Categories include:
+ - Aged Loss Percentage
  - Deceased Loss Percentage
  - Fraud loss
  - Insolvent Loss
